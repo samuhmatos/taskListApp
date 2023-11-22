@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "lista_tarefas",
-    "slug": "lista_tarefas",
+    "name": "TaskListApp",
+    "slug": "TaskListApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,9 +14,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -25,7 +23,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.samuhmatos.lista_tarefas"
+      "package": "com.samuhmatos.TaskListApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
